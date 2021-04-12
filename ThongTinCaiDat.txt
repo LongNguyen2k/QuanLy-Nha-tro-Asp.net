@@ -1,0 +1,2 @@
+Khi sử dụng source code ở máy mới phải update lại đường dẫn database ở phần connectionstring và modify lại phần connection với tên server
+của Cơ SỞ Dữ Liệu đang dùng 
